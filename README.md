@@ -6,6 +6,8 @@ stylesheet organisation.
 
 ## Preliminary Roadmap
 
-- [ ] gather  reading material about different methodologies
-- [ ] read and group the reading material
+- [ ] gather [reading material][material] about different methodologies
+- [ ] read and group the [reading material][material]
 - [ ] meet to discuss application to our project
+
+[material]: ./reading-material.md
