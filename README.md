@@ -10,6 +10,8 @@ stylesheet organisation.
 
 ## Preliminary Roadmap
 
+We will update this roadmap as we go along.
+
 - [ ] gather [reading material][material] about different methodologies
 - [ ] read and group the [reading material][material]
 - [ ] meet to discuss application to our project
