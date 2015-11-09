@@ -16,3 +16,4 @@ accumulated.
 * http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/
 * http://csswizardry.com/2015/03/immutable-css/
 * http://cssguidelin.es/
+* http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
