@@ -1,8 +1,6 @@
 # Reading Material
 
-This is an unsorted list of links to reading material on the topic of
-stylesheet architecture. It will be grouped and sorted once several items have
-accumulated.
+This list is incomplete. Feel free to add to it.
 
 ## Modularity
 
